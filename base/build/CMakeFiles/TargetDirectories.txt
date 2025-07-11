@@ -1,3 +1,0 @@
-/home/marc/github/learn-sdl/base/build/CMakeFiles/hello.dir
-/home/marc/github/learn-sdl/base/build/CMakeFiles/edit_cache.dir
-/home/marc/github/learn-sdl/base/build/CMakeFiles/rebuild_cache.dir

@@ -1,7 +1,0 @@
-{
-	"InstallScripts" : 
-	[
-		"/home/marc/github/learn-sdl/base/build/cmake_install.cmake"
-	],
-	"Parallel" : false
-}

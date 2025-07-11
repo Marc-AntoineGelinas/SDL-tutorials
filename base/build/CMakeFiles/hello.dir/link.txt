@@ -1,1 +1,0 @@
-/usr/bin/cc -Wl,--dependency-file=CMakeFiles/hello.dir/link.d CMakeFiles/hello.dir/hello.c.o -o hello  /usr/lib/libSDL3.so.0.2.16
